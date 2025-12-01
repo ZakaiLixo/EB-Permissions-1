@@ -1,34 +1,54 @@
 {
   "PlayerPermission": {
-    "Capsmongy": {
+    "DarkLuffy128": {
       "PlayerTier": 1000
     },
-    "k00KIe": {
+    "ZakaiDev": {
       "PlayerTier": 1000
     },
-    "logui122_X": {
+    "FenoDev": {
       "PlayerTier": 1000
     },
-    "ZzLuckZzx": {
+    "itz_kevin501": {
+      "PlayerTier": 1000
+    },
+    "hdhegskdv": {
       "PlayerTier": 100
     },
-    "Dark_shadow3251": {
+     "RENANGATOGH": {
       "PlayerTier": 100
     },
-     "Lord12345Baby": {
-      "PlayerTier": 1
-    },
-     "Vrilusao": {
-      "PlayerTier": 1
+     "SEGREDO6001": {
+      "PlayerTier": 100
     }
   },
   "Characters": {
-    "Yoriichi": {
+    "gojo": {
       "Tier": 1,
       "Permission": [3859421439],
       "Icon": 70445483214940
     },
-    "Kokushibo": {
+    "eren": {
+      "Tier": 100,
+      "Permission": [3859421439],
+      "Icon": 70445483214940
+    },
+    "sukunaheian": {
+      "Tier": 1000,
+      "Permission": [3859421439],
+      "Icon": 70445483214940
+    },
+      "diavolo": {
+      "Tier": 1,
+      "Permission": [3859421439],
+      "Icon": 70445483214940
+    },
+      "denji": {
+      "Tier": 100,
+      "Permission": [3859421439],
+      "Icon": 70445483214940
+    },
+    "subaru": {
       "Tier": 1,
       "Permission": [],
       "Icon": 70974411342850
