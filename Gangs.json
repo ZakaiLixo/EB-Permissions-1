@@ -1,8 +1,8 @@
 {
-  "11199941": {
+  "529553621": {
     "Name": "Tokyo Manji Gang",
     "Health": 1000,
-    "Itens": ["TomanKick", "Raio"],
+    "Itens": ["TomanKick", "Raio", "MundoTransparente", "Kirin" ],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
